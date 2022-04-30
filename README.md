@@ -12,12 +12,12 @@
 
 <p align="left">
   <br/>
- 📝 Languages: <strong>Python, Jupyter notebook, Javascript, CSS/HTML, Node.js, React, SQL. </strong>
+ 📝 Languages: <strong>Python, Javascript, CSS/HTML, SQL. </strong>
 </p>
 
 <p align="left">
   <br/>
-  🛠 Tools: <strong>Git, Docker, Kubernetes, Postman, Watson Studio. </strong>
+  🛠 Tools: <strong>Git, Jupyter, Node.js, React, Docker, Kubernetes, Postman, Watson Studio. </strong>
 </p>
 
 <p align="left">
