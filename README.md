@@ -31,7 +31,7 @@
 [![logo css3](https://img.shields.io/badge/CSS-007ACC?&style=for-the-badge&logo=css3&logoColor=white)](#)
 
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
-[![logo radical](https://img.shields.io/badge/radical-20232A?style=for-the-badge&logo=radical&logoColor=b77cff)](#)
+[![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![logo nodejs](https://img.shields.io/badge/NODE.JS-79b204?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 [![logo qiskit](https://img.shields.io/badge/Qiskit-491d8b?style=for-the-badge&logo=qiskit&logoColor=white)](#)
