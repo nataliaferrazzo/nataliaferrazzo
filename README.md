@@ -67,7 +67,6 @@
 <br/>
 <br/>
 <br/>
-<hr>
 <h2 align="center"><strong> 🧮 GitHub Stats </strong></h2>
 <br/>
 
@@ -77,32 +76,45 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliaferrazzo&theme=radical)
 
 
-<hr>
 
+<br/>
+<br/>
+<br/>
 <h2 align="center"> 📌 Repos </h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nataliaferrazzo/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Portfolio&theme=radical&border_color=b77cff&border_radius=10"></a><a align="right" href="https://github.com/nataliaferrazzo/DataScience_Project" title="Data Science Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=DataScience_Project&theme=radical&border_color=b77cff&border_radius=10"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nataliaferrazzo/Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum" title="Solving the Travelling Salesman Problem on IBM Quantum"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum&theme=radical&border_color=b77cff&border_radius=10"></a>
   <a align="right" href="https://github.com/nataliaferrazzo/starstore" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=starstore&theme=radical&border_color=b77cff&border_radius=10"></a>
 </div>
+
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nataliaferrazzo/QIEDA" title="Quantum-inspired Estimation of Distribution Algorithm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=QIEDA&theme=radical&border_color=b77cff&border_radius=10"></a>
   <a align="right" href="https://github.com/nataliaferrazzo/qopt" title="Quantum-inspired evolutionary algorithms for Optimization problems"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=qopt&theme=radical&border_color=b77cff&border_radius=10"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nataliaferrazzo/quantum-inspired-algorithms" title="Quantum-Inspired Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=quantum-inspired-algorithms&theme=radical&border_color=b77cff&border_radius=10"></a>
   <a align="right" href="https://github.com/nataliaferrazzo/GeneticTSP" title="Genetic Algorithm to solve the Traveling Salesman Problem"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=GeneticTSP&theme=radical&border_color=b77cff&border_radius=10"></a>
 </div>
+
 <br><br><br><br><br><br>
+
 <h4 align="center">
   <a href="https://github.com/nataliaferrazzo?tab=repositories" title="Show Repositories">More</a>
 </h4>
+
+
+
 <br/>
 <br/>
 <br/>
