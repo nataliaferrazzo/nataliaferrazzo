@@ -1,5 +1,4 @@
 <!-- visualizar README no vscode: command+K + V */ -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <br />
 
@@ -73,10 +72,10 @@
 <h2 align="left"><strong> 🧮 GitHub Stats </strong></h2>
 <br/>
 
-[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaferrazzo&theme=dracula)](#)
+[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaferrazzo&theme=radical)](#)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliaferrazzo&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliaferrazzo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliaferrazzo&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliaferrazzo&theme=radical)
 
 <br/>
 <br/>
@@ -103,5 +102,6 @@
   <br/ >
 </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="natalia-capra-ferrazzo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/natalia-capra-ferrazzo/en?trk=profile-badge">Natália Capra Ferrazzo</a></div>
               
