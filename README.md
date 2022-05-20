@@ -123,5 +123,5 @@
   <br/>
   Or my LinkedIn profile 
   <a href="https://br.linkedin.com/in/natalia-capra-ferrazzo" alt="Gmail">
-  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.jpeg" height="30" align="center"/></a>
+  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.png" height="30" align="center"/></a>
 </p>  
