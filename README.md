@@ -109,9 +109,12 @@
 
 <p align="left">
   <br/>
-  If you want to know more about me and my projects, please visit my website ⤵️
+  If you want to know more about me and my projects, please visit my website ⤵️ or my LinkedIn profile 
+  <a href="https://br.linkedin.com/in/natalia-capra-ferrazzo" alt="Gmail">
+  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.png" height="30" align="center"/></a>
+</p>  
+
   <br/>
-  <br/ >
 </p>
 
 <p align="left">
@@ -119,9 +122,3 @@
   <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/social-image.png" align="center"/></a>
 </p>  
 
-<p align="left">
-  <br/>
-  Or my LinkedIn profile 
-  <a href="https://br.linkedin.com/in/natalia-capra-ferrazzo" alt="Gmail">
-  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.png" height="30" align="center"/></a>
-</p>  
