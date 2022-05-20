@@ -121,12 +121,7 @@
 
 <p align="left">
   <br/>
-  Or my LinkedIn profile ⤵️
-  <br/>
-  <br/ >
-</p>
-
-<p align="left">
+  Or my LinkedIn profile 
   <a href="https://br.linkedin.com/in/natalia-capra-ferrazzo" alt="Gmail">
-  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.jpeg" height="40" align="left"/></a>
+  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.jpeg" height="30" align="center"/></a>
 </p>  
