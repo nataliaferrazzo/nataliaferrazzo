@@ -11,7 +11,7 @@
   </strong>
   </p>
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode" style="position: absolute; z-index: 1; width: 400px;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode" style="z-index: 1; width: 400px;">
 
 <br/>
 <br/>
