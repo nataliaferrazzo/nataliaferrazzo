@@ -11,7 +11,8 @@
   </strong>
   </p>
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode" style="z-index: 1; width: 400px;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode" 
+align="right" style="z-index: 1; width: 400px;">
 
 <br/>
 <br/>
@@ -60,59 +61,76 @@
 
 <br/>
 <br/>
+<div>
+<h2 align="left"><strong> 🧮 GitHub Stats </strong></h2>
 <br/>
-<h2 align="center"><strong> 🧮 GitHub Stats </strong></h2>
-<br/>
-<div width="100%" align="center">
+<div width="100%" align="center" >
 
-[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaferrazzo&theme=radical)](#)
+  [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaferrazzo&theme=radical)](#)
+  
+  <div style="display: flex; justify-content: space-between; max-width: 700px">
+  <div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliaferrazzo&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliaferrazzo&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliaferrazzo&theme=radical)
+  </div>
+  <div>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliaferrazzo&theme=radical)
+  </div>
+  </div>
 </div>
+</div>
+<br/>
+<br/>
 
-
-<br/>
-<br/>
-<br/>
-<h2 align="center"><strong> 📌 Repos </strong></h2>
+<h2 align="left"><strong> 📌 Highlighted Repos </strong></h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nataliaferrazzo/Portfolio" title="Portfolio"><img align="left" height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Portfolio&theme=radical&border_color=b77cff&border_radius=10"></a><a align="center" href="https://github.com/nataliaferrazzo/DataScience_Project" title="Data Science Project"><img align="right" height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=DataScience_Project&theme=radical&border_color=b77cff&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nataliaferrazzo/Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum" title="Solving the Travelling Salesman Problem on IBM Quantum"><img align="left" height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum&theme=radical&border_color=b77cff&border_radius=10"></a><a align="right" href="https://github.com/nataliaferrazzo/starstore" title="Star Store"><img align="right" height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=starstore&theme=radical&border_color=b77cff&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nataliaferrazzo/GeneticTSP" title="Genetic Algorithm to solve TSP"><img align="left" height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=GeneticTSP&theme=radical&border_color=b77cff&border_radius=10"></a><a align="right" href="https://github.com/nataliaferrazzo/qopt" title="Quantum-inspired evolutionary algorithms for Optimization problems"><img align="right" height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=qopt&theme=radical&border_color=b77cff&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <div width="100%" align="center" style="display: flex; justify-content: space-between; max-width: 700px; margin-bottom: -20px">
+    <!-- First Row of Repositories -->
+    <a href="https://github.com/nataliaferrazzo/Portfolio" title="Portfolio">
+      <img height="150px" width="330px"  src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Portfolio&theme=radical&border_color=b77cff&border_radius=10">
+    </a>
+    <a href="https://github.com/nataliaferrazzo/DataScience_Project" title="Data Science Project">
+      <img  height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=DataScience_Project&theme=radical&border_color=b77cff&border_radius=10">
+    </a>
+  </div>
+
+  <div width="100%" style="display: flex; justify-content: space-between; max-width: 700px;margin-bottom: -20px">
+    <!-- Second Row of Repositories -->
+    <a href="https://github.com/nataliaferrazzo/Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum" title="Solving the Travelling Salesman Problem on IBM Quantum">
+      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum&theme=radical&border_color=b77cff&border_radius=10">
+    </a>
+    <a href="https://github.com/nataliaferrazzo/starstore" title="Star Store">
+      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=starstore&theme=radical&border_color=b77cff&border_radius=10">
+    </a>
+  </div>
+
+  <div width="100%" style="display: flex; justify-content: space-between; max-width: 700px">
+    <!-- Third Row of Repositories -->
+    <a href="https://github.com/nataliaferrazzo/GeneticTSP" title="Genetic Algorithm to solve TSP">
+      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=GeneticTSP&theme=radical&border_color=b77cff&border_radius=10">
+    </a>
+    <a href="https://github.com/nataliaferrazzo/qopt" title="Quantum-inspired evolutionary algorithms for Optimization problems">
+      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=qopt&theme=radical&border_color=b77cff&border_radius=10">
+    </a>
+  </div>
+
 <h4 align="center">
   <a href="https://github.com/nataliaferrazzo?tab=repositories" title="Show Repositories">More</a>
 </h4>
+</div>
 
+<br/>
+<br/>
 
-
-<br/>
-<br/>
-<br/>
-<h2 align="center"><strong> 👩🏻 Personal Info </strong></h2>
-<br/>
+<div>
+<h2 align="left"><strong> 👩🏻 Personal Info </strong></h2>
 
 <p align="left">
-  <br/>
-  If you want to know more about me and my projects, please visit my website ⤵️ or my LinkedIn profile 
-  <a href="https://br.linkedin.com/in/natalia-capra-ferrazzo" alt="Gmail">
-  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/linkedin.png" height="30" align="center"/></a>
-</p>  
-
-  <br/>
+  If you want to know more about me, specially about my academic projects, please visit my <a href="https://nferrazzo.com/" alt="Personal page">personal page</a> or my
+  <a href="https://br.linkedin.com/in/natalia-capra-ferrazzo" alt="LinkedIn">
+    LinkedIn profile</a>.
 </p>
-
-<p align="left">
-  <a href="https://nferrazzo.com" alt="Gmail">
-  <img src="https://raw.githubusercontent.com/nataliaferrazzo/nataliaferrazzo/main/social-image.png" align="center"/></a>
-</p>  
-
+</div>
+<br/>
