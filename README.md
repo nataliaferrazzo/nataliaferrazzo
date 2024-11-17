@@ -11,7 +11,7 @@
   <br/>
   </p>
 
-  I'm a physical engineer graduated from UFRGS and a master's student in Quantum Information at the Sorbonne University who dreams about becoming a Quantum Software Engineer someday.
+  I'm an engineering physicist graduated from UFRGS and a master's student in Quantum Information at the Sorbonne University who dreams about becoming a Quantum Software Engineer someday.
   
   I also love Data Science 📊 and Machine Learning 🤖
   </strong>
