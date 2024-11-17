@@ -2,14 +2,8 @@
 
 <br />
 <p align="center">
-  <h1 align="center">Natália Capra Ferrazzo ✨</h1>
+  <h1 align="center">Natália Capra Ferrazzo</h1>
   <br/>
-
-  <p>
-  <strong> Hey, there! 👾
-  <br/>
-  <br/>
-  </p>
 
   I'm an engineering physicist graduated from UFRGS and a master's student in Quantum Information at the Sorbonne University who dreams about becoming a Quantum Software Engineer someday.
   
@@ -17,12 +11,12 @@
   </strong>
   </p>
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode" style="position: absolute; z-index: 1; width: 400px;">
 
 <br/>
 <br/>
 
-<h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
+<h2 style="align: left; z-index: -1;"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
 <br/>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
