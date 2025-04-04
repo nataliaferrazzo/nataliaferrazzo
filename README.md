@@ -5,7 +5,7 @@
   <h1 align="center">Natália Capra Ferrazzo</h1>
   <br/>
 
-  I'm an engineering physicist graduated from UFRGS and a master's student in Quantum Information at the Sorbonne University who dreams about becoming a Quantum Software Engineer someday.
+  I'm an engineering physicist graduated in 2022 from UFRGS and a master's student in Quantum Information at the Sorbonne University who dreams about becoming a Quantum Software Engineer someday.
   
   I also love Data Science 📊 and Machine Learning 🤖
   </strong>
@@ -57,72 +57,6 @@ align="right" style="z-index: 1; width: 400px;">
 [![logo aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![logo microsoftsqlserver](https://img.shields.io/badge/Microsoft_SQL_SERVER-8c000c?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
 [![logo googleanalytics](https://img.shields.io/badge/Google_Analytics-ED8B00?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
-
-
-<br/>
-<br/>
-<div>
-<h2 align="left"><strong> 🧮 GitHub Stats </strong></h2>
-<br/>
-<div width="100%" align="center" >
-
-  [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaferrazzo&theme=radical)](#)
-  
-  <div style="display: flex; justify-content: space-between; max-width: 700px">
-  <div>
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nataliaferrazzo&theme=radical)
-  </div>
-  <div>
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliaferrazzo&theme=radical)
-  </div>
-  </div>
-</div>
-</div>
-<br/>
-<br/>
-
-<h2 align="left"><strong> 📌 Highlighted Repos </strong></h2>
-<br>
-<div align="center">
-  <div width="100%" align="center" style="display: flex; justify-content: space-between; max-width: 700px; margin-bottom: -20px">
-    <!-- First Row of Repositories -->
-    <a href="https://github.com/nataliaferrazzo/Portfolio" title="Portfolio">
-      <img height="150px" width="330px"  src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Portfolio&theme=radical&border_color=b77cff&border_radius=10">
-    </a>
-    <a href="https://github.com/nataliaferrazzo/DataScience_Project" title="Data Science Project">
-      <img  height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=DataScience_Project&theme=radical&border_color=b77cff&border_radius=10">
-    </a>
-  </div>
-
-  <div width="100%" style="display: flex; justify-content: space-between; max-width: 700px;margin-bottom: -20px">
-    <!-- Second Row of Repositories -->
-    <a href="https://github.com/nataliaferrazzo/Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum" title="Solving the Travelling Salesman Problem on IBM Quantum">
-      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=Solving-the-Travelling-Salesman-Problem-on-IBM-Quantum&theme=radical&border_color=b77cff&border_radius=10">
-    </a>
-    <a href="https://github.com/nataliaferrazzo/starstore" title="Star Store">
-      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=starstore&theme=radical&border_color=b77cff&border_radius=10">
-    </a>
-  </div>
-
-  <div width="100%" style="display: flex; justify-content: space-between; max-width: 700px">
-    <!-- Third Row of Repositories -->
-    <a href="https://github.com/nataliaferrazzo/GeneticTSP" title="Genetic Algorithm to solve TSP">
-      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=GeneticTSP&theme=radical&border_color=b77cff&border_radius=10">
-    </a>
-    <a href="https://github.com/nataliaferrazzo/qopt" title="Quantum-inspired evolutionary algorithms for Optimization problems">
-      <img height="150px" width="330px" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliaferrazzo&repo=qopt&theme=radical&border_color=b77cff&border_radius=10">
-    </a>
-  </div>
-
-<h4 align="center">
-  <a href="https://github.com/nataliaferrazzo?tab=repositories" title="Show Repositories">More</a>
-</h4>
-</div>
-
-<br/>
-<br/>
 
 <div>
 <h2 align="left"><strong> 👩🏻 Personal Info </strong></h2>
